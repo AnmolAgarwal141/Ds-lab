@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539719735 source:e:\code blocks\doublylinkedlist\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
